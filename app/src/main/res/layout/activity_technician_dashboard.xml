@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".TechnicianDashboardActivity">
     <ProgressBar
-        android:layout_width="48dp"
-        android:layout_height="48dp"
+        android:layout_width="54dp"
+        android:layout_height="54dp"
         android:layout_centerVertical="true"
         android:id="@+id/technician_progress"
         android:layout_centerHorizontal="true"/>
